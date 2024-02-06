@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  vmImage: MyComputeragent
+  vmImage: Default
 
 steps:
 - task: Maven@3
