@@ -1,7 +1,7 @@
 trigger:
 - master
 
-pool: LAPTOP-CT6JC3JH
+pool: MyComputer
 
 steps:
 - task: Maven@3
