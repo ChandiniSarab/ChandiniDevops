@@ -1,7 +1,7 @@
 trigger:
 - master
 
-pool: MyComputer
+pool: SelfHosted
 
 steps:
 - task: Maven@3
